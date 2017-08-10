@@ -2,7 +2,8 @@
 
 namespace Contoh\Database;
 
-class Connection{
+class Connection
+{
 
 }
 

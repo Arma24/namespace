@@ -1,17 +1,19 @@
 <?php
-
 namespace Lama;
 
 class Vario{
-	public function index(){
+	public function index()
+    {
 		return 'Vario Lama';
 	}
 }
 
 namespace Baru;
 
-class Vario{
-	public function index(){
+class Vario
+{
+	public function index()
+    {
 		return 'Vario Baru';
 	}
 }
