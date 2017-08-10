@@ -1,5 +1,4 @@
 <?php
-
 namespace Contoh\Database;
 
 class Connection
@@ -8,5 +7,4 @@ class Connection
 }
 
 $conn = new Connection();
-
 ?>

@@ -23,5 +23,4 @@ echo $lama->index();
 echo '<br>';
 $baru = new \Baru\Vario;
 echo $baru->index();
-
 ?>

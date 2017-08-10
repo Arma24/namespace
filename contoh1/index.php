@@ -1,5 +1,4 @@
 <?php
-
 include_once 'Smartphone.php';
 include_once 'Asus/Smartphone.php';
 include_once 'Iphone/Smartphone.php';
@@ -16,5 +15,4 @@ $Iphone->powerOn();
 
 $Xiaomi = new \Xiaomi\Smartphone;
 $Xiaomi->powerOn();
-
 ?>

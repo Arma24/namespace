@@ -1,5 +1,4 @@
 <?php
-
 namespace Project;
 
 use Aplikasi\Yang\Besar\Dan\Rumit\Sekali\Connection;
@@ -9,5 +8,4 @@ $conn = new Connection();
 $conn = new Config();
 
 $conn2 = new \Connection();
-
 ?>

@@ -1,13 +1,11 @@
 <?php
-
 namespace Iphone;
 
-class SMartphone
+class Smartphone
 {
 	function powerOn()
     {
 		echo "<p> Hai, aku smartphone Iphone</p>";
 	}
 }
-
 ?>
